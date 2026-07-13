@@ -1,0 +1,6 @@
+{
+  "name": "Jugnatural",
+  "description": "Deliciosos jugos 100% naturales, preparados al momento con frutas frescas, sin conservantes y llenos de vida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
